@@ -1,4 +1,4 @@
-# 
+# Get the ultimate bitmex trading bot with custom bitmex trading bot Plugin | grid-trading + perpetual-trading. Featuring grid-trading and perpetual-trading, it's the best choice
 
 
 
